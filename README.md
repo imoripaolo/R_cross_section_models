@@ -17,3 +17,8 @@ ____
 Bibliography / Bibliografia:
 
 Wooldridge, J. M. (2015). Introductory econometrics: A modern approach. Cengage learning.
+
+
+Databases:
+
+https://www.cengage.com/aise/economics/wooldridge_2e_datasets/
